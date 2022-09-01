@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod (numbers) hello
+chmod ugo+x hello
